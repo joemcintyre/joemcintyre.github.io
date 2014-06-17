@@ -8,4 +8,4 @@ body { font-family:"Lato",sans-serif; }
 
 #profile { float:left; width:250px; font-family:"Lobster",cursive; }
 #name { font-size:36px; }
-#profilelink { text-align:left; font-size:14px; font-family:"Lato",sans-serif; }
+.profilelink { text-align:left; font-size:14px; font-family:"Lato",sans-serif; }
